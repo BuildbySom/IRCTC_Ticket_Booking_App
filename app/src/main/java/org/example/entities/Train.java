@@ -9,6 +9,7 @@ public class Train {
     private String tNo;
     private Map<String, Time> stationTimes;
     private List<List<Integer>> seats;
+    private List<String> stations;
 
 
 
